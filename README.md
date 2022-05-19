@@ -1,16 +1,10 @@
-# configs
+![photo1652957314](https://user-images.githubusercontent.com/80541747/169276746-2b9ffe85-2300-4322-82fc-74fbfc076d53.jpeg)
 
-A new Flutter project.
 
-## Getting Started
+![photo1652957317](https://user-images.githubusercontent.com/80541747/169276751-45d9a70b-1347-4778-a74a-57b5a0458756.jpeg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![photo1652957323](https://user-images.githubusercontent.com/80541747/169276754-66afade6-02c2-41cd-a073-83812313bb9e.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo1652957338](https://user-images.githubusercontent.com/80541747/169276757-a9ba964a-f1c8-4dfa-96d5-f77d0f20ac62.jpeg)

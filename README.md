@@ -1,3 +1,6 @@
+#	Flutter-Configs Public
+##  Customizations of a Flutter Application (Internationalization, Themes, Notification, Animations stc..)
+
 ![photo1652957314](https://user-images.githubusercontent.com/80541747/169276746-2b9ffe85-2300-4322-82fc-74fbfc076d53.jpeg)
 
 
